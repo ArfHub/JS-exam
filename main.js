@@ -7,11 +7,7 @@ function date2(){
 }
 
 
-function validatePass(){
- let name = document.getElementById('username').value;
- name.value 
 
-}
 
 
 
